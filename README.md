@@ -9,7 +9,7 @@ I am a **Computer Science** student and **Cybersecurity** enthusiast based in Ri
 
 ###  Tech Stack & Tools:
 - **OS:** Linux (Kali, Ubuntu).
-- **Security:** Nmap, Wireshark, Metasploit, Burpsuite, SQLmap.
+- **Security:** Nmap, Wireshark, Metasploit, Burpsuite, SQLmap etc...
 - **Dev:** C, Python, Git & GitHub.
 
 ###  How to reach me:
