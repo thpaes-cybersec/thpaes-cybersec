@@ -9,7 +9,7 @@ Currently focusing on Offensive Security (Pentesting) through **DESEC Security**
 - **OS:** Linux (Kali, Ubuntu).
 
 ###  How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/thiago-paes-barroso-856214202/)
+- LinkedIn: (https://www.linkedin.com/in/thiago-paes-barroso-856214202/)
 - Email: thpaes.cybersec@gmail.com
   
 ###  Education & Certifications:
