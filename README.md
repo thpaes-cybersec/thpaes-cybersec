@@ -13,7 +13,7 @@ I am a **Computer Science** student and **Cybersecurity** enthusiast based in Ri
 - **Dev:** C, Python, Git & GitHub.
 
 ###  How to reach me:
-- **LinkedIn:** [https://www.linkedin.com/in/thiago-paes-barroso-856218402/]
+- **LinkedIn:** https://www.linkedin.com/in/thiago-paes-barroso-856218402/
 - **Email:** thpaes.cybersec@gmail.com
 
 ---
