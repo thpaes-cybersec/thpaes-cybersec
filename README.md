@@ -1,20 +1,21 @@
-## Hi there, I'm Thiago Paes 
+# Hello guys, I'm Thiago 👋
 
-I am a **Computer Science** student and **Cybersecurity** enthusiast based in Rio de Janeiro, Brazil. Currently, I'm focusing my studies on Offensive Security (Pentesting) and Networking.
+I am a **Computer Science** student at UVA and a **Cybersecurity** enthusiast. 
+Currently focusing on Offensive Security (Pentesting) through **DESEC Security**.
 
-### What I'm working on:
--  Studying Computer Science at (UVA) - Universidade Veiga de Almeida.
--  Practicing Pentest labs on **TryHackMe** and **Hack The Box**.
--  Improving my automation skills with **Python** and **Bash**.
-
-###  Tech Stack & Tools:
+###  Tech Stack:
+- **Languages:** C, Python, Bash.
+- **Tools:** Nmap, Wireshark, Metasploit.
 - **OS:** Linux (Kali, Ubuntu).
-- **Security:** Nmap, Wireshark, Metasploit, Burpsuite, SQLmap etc...
-- **Dev:** C, Python, Git & GitHub.
 
 ###  How to reach me:
-- **LinkedIn:** https://www.linkedin.com/in/thiago-paes-barroso-856218402/
-- **Email:** thpaes.cybersec@gmail.com
-
+- [LinkedIn](https://www.linkedin.com/in/thiago-paes-barroso-856214202/)
+- Email: thpaes.cybersec@gmail.com
+  
+###  Education & Certifications:
+- **B.S. in Computer Science** - Universidade Veiga de Almeida (UVA) | *In Progress*
+- **Professional Pentest Program** - DESEC Security | *In Progress*
+- **Introduction to Cybersecurity** 
+  
 ---
 *“Always learning how to break and secure things.”*
