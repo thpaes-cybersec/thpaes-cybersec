@@ -40,7 +40,7 @@ A community focused on learning, research and collaboration in cybersecurity.
 
 ## 📫 Contact
 
-- LinkedIn: [Thiago Paes](www.linkedin.com/in/thiago-paes-cybersec)
+- Linkedin: [Thiago Paes](https://www.linkedin.com/in/thiago-paes-cybersec/)
 - Email: thpaes.cybersec@gmail.com
 
 ---
