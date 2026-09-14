@@ -1,20 +1,48 @@
-# Hello guys, I'm Thiago 👋
+# Hello, I'm Thiago 👋
 
-I am a **Computer Science** student at UVA and a **Cybersecurity** enthusiast. 
-Currently focusing on Offensive Security (Pentesting) through **DESEC Security**.
+I'm a **Computer Science student** and **Cybersecurity enthusiast** focused on **Offensive Security and Penetration Testing**.
 
-###  Tech Stack:
-- **Languages:** Python (Basic)
-- **OS:** Linux & Windows
+Currently studying and building hands-on experience with Linux, networking, web security, reconnaissance and security tooling.
 
-###  How to reach me:
-- LinkedIn: https://www.linkedin.com/in/thiago-paes-barroso-856214202/
+## 🛡️ Cybersecurity
+
+- Offensive Security / Penetration Testing
+- OWASP Top 10
+- Web Application Security
+- Reconnaissance & Enumeration
+- TCP/IP & OSI Model
+- Burp Suite
+- Nmap
+- Wireshark
+- Gobuster
+- Amass
+
+## 💻 Technologies
+
+- **Languages:** Python, Bash, C
+- **Operating Systems:** Linux, Windows
+- **Tools:** Git, GitHub, Docker
+- **Networking:** TCP/IP, OSI Model
+
+## 🐦 ACID
+
+Founder of **ACID — Assembleia de Cibersegurança e Inteligência Digital**.
+
+A community focused on learning, research and collaboration in cybersecurity.
+
+> **Aprendemos juntos. Construímos juntos. Hackeamos juntos.**
+
+## 🎓 Education
+
+- **B.S. in Computer Science** — Universidade Veiga de Almeida (UVA) | *In Progress*
+- **Professional Pentest Program** — DESEC Security | *In Progress*
+- **Introduction to Cybersecurity**
+
+## 📫 Contact
+
+- LinkedIn: [Thiago Paes](www.linkedin.com/in/thiago-paes-cybersec)
 - Email: thpaes.cybersec@gmail.com
-  
-###  Education & Certifications:
-- **B.S. in Computer Science** - Universidade Veiga de Almeida (UVA) | *In Progress*
-- **Professional Pentest Program** - DESEC Security | *In Progress*
-- **Introduction to Cybersecurity** 
-  
+
 ---
-*“Always learning how to break and secure things.”*
+
+*Always learning, building and breaking things to understand how they work.*
