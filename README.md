@@ -4,7 +4,7 @@ I'm a **Computer Science student** and **Cybersecurity enthusiast** focused on *
 
 Currently studying and building hands-on experience with Linux, networking, web security, reconnaissance and security tooling.
 
-## • Cybersecurity
+## ◯ Cybersecurity
 
 - Offensive Security / Penetration Testing
 - OWASP Top 10
@@ -17,7 +17,7 @@ Currently studying and building hands-on experience with Linux, networking, web 
 - Gobuster
 - Amass
 
-## • Technologies
+## ◯ Technologies
 
 - **Languages:** Python, Bash, C
 - **Operating Systems:** Linux, Windows
@@ -32,13 +32,13 @@ A community focused on learning, research and collaboration in cybersecurity.
 
 > **Aprendemos juntos. Construímos juntos. Hackeamos juntos.**
 
-## • Education
+## ◯ Education
 
 - **B.S. in Computer Science** — Universidade Veiga de Almeida (UVA) | *In Progress*
 - **Professional Pentest Program** — DESEC Security | *In Progress*
 - **Introduction to Cybersecurity**
 
-## • Contact
+## ◯ Contact
 
 - Linkedin: [Thiago Paes](https://www.linkedin.com/in/thiago-paes-cybersec/)
 - Email: thpaes.cybersec@gmail.com
