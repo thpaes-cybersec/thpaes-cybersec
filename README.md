@@ -6,16 +6,11 @@ Currently studying and building hands-on experience with Linux, networking, web 
 
 ## ⦿ Cybersecurity
 
-- Offensive Security / Penetration Testing
-- OWASP Top 10
-- Web Application Security
-- Reconnaissance & Enumeration
-- TCP/IP & OSI Model
-- Burp Suite
-- Nmap
-- Wireshark
-- Gobuster
-- Amass
+- Offensive Security
+- Penetration Testing
+- Networking fundamentals
+- OSI & TCP/IP
+- Web Security
 
 ## ⦿ Technologies
 
