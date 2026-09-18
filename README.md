@@ -1,10 +1,10 @@
-# Hello, I'm Thiago 👋
+# Hello, I'm Thiago 
 
 I'm a **Computer Science student** and **Cybersecurity enthusiast** focused on **Offensive Security and Penetration Testing**.
 
 Currently studying and building hands-on experience with Linux, networking, web security, reconnaissance and security tooling.
 
-## 🛡️ Cybersecurity
+## ⭕ Cybersecurity
 
 - Offensive Security / Penetration Testing
 - OWASP Top 10
@@ -17,7 +17,7 @@ Currently studying and building hands-on experience with Linux, networking, web 
 - Gobuster
 - Amass
 
-## 💻 Technologies
+## ⭕ Technologies
 
 - **Languages:** Python, Bash, C
 - **Operating Systems:** Linux, Windows
@@ -32,7 +32,7 @@ A community focused on learning, research and collaboration in cybersecurity.
 
 > **Aprendemos juntos. Construímos juntos. Hackeamos juntos.**
 
-## 🎓 Education
+## ⭕ Education
 
 - **B.S. in Computer Science** — Universidade Veiga de Almeida (UVA) | *In Progress*
 - **Professional Pentest Program** — DESEC Security | *In Progress*
